@@ -1,0 +1,7 @@
+sale_id,customer_id,product_id,quantity,total_amount,sale_date,status
+S001,C001,P001,1,2499,2026-10-01,Delivered
+S002,C002,P003,1,3499,2026-10-02,Delivered
+S003,C003,P002,2,3998,2026-10-03,Delivered
+S004,C004,P005,1,799,2026-10-04,Processing
+S005,C005,P004,2,998,2026-10-05,Delivered
+S006,C001,P006,1,1299,2026-10-06,Shipped

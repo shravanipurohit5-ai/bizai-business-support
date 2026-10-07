@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langgraph
+mcp
+faiss-cpu
+pandas
+numpy
+python-dotenv
+pypdf
+sentence-transformers
+google-genai

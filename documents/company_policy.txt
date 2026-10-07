@@ -1,0 +1,21 @@
+COMPANY POLICY
+
+Our business is committed to providing reliable products and helpful customer support.
+
+Customer Support:
+Customers should provide their order ID when contacting support about an order.
+
+Returns:
+Eligible products can be returned within 30 days of delivery.
+
+Damaged Products:
+Damaged products must be reported within 48 hours of delivery.
+
+Refunds:
+Refunds for approved returns are processed to the original payment method after inspection.
+
+Customer Service:
+Our support assistant should provide information based only on the available company policies and business data.
+
+Important:
+If information is not available in the company data, the assistant must clearly say that the information could not be found instead of inventing an answer.
